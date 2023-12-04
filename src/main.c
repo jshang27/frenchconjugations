@@ -1,5 +1,3 @@
-#define URL_BEGIN "https://conjugator.reverso.net/conjugation-french-verb-"
-
 #include <stdio.h>
 #include <string.h>
 
